@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.233.173.174:7397/Vidhyaorganisation/repository/nodejsrepo-vidhya/"
+    "registry": "http://172.31.39.38:7397/Vidhyaorganisation/repository/nodejsrepo-vidhya/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
